@@ -12,12 +12,24 @@ Flipkart is one of India's largest e-commerce platforms, known for its user-frie
 
 ![Screenshot 2023-10-09 160008](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/6dfe925d-c741-47d1-bc9d-41e4e1c64611)
 
+
+
 ![Screenshot 2023-10-09 160042](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/0fe1bc0a-08df-4c91-8349-24644deaf095)
+
+
 
 ![Screenshot 2023-10-09 160102](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/a58657a8-aa42-44bb-83e6-7b834a4fc74e)
 
+
+
 ![Screenshot 2023-10-09 160131](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/84e9e3c3-9ebe-4410-986a-05c573c0d171)
+
+
 
 ![Screenshot 2023-10-09 160201](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/7b7f7d14-9899-48c1-bc3a-7fae98cf18e0)
 
+
+
 ![Screenshot 2023-10-09 160247](https://github.com/Susanta0/Flipkart-Home-Page/assets/130533362/47ed29c1-a6cf-40a5-bef8-dc9a4c683562)
+
+
