@@ -121,7 +121,6 @@ nav{
 }
 .sign-in{
     list-style: none;
-    padding: 0px 15px 0px 15px ;
 }
 .sign-in>a{
     display: flex;
@@ -264,6 +263,10 @@ nav{
     text-decoration: none;
     color: #000000;
 }
+.things-list-2>a{
+    text-decoration: none;
+    color: #000000;
+}
 .things-list-1>a>p{
     margin-top: 5px;
     font-family: 'Inter', sans-serif;
@@ -274,7 +277,6 @@ nav{
     list-style: none;
 }
 .things-list-2>a>p{
-    display: inline-flex;
     color: #000000;
     font-size: 13.1px;
     font-family: 'Inter', sans-serif;
