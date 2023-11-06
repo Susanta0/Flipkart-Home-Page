@@ -9,6 +9,7 @@ Flipkart is one of India's largest e-commerce platforms, known for its user-frie
 
 
 **You can go to the page by clicking on this link:**  https://susanta0.github.io/Flipkart-Home-Page/  
+**You can go to the page by clicking on this link Also:**   https://flipkart-home-clone.netlify.app/
 
 
 
